@@ -1,0 +1,8 @@
+<layouts>
+    <!-- A generic, centered layout. -->
+    <layout id="L1">
+        <drawable class="Background" />
+        <label id="valTemp" x="50" y="1" color="Graphics.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_LARGE" />
+        <label id="lablTemp" x="50" y="41" color="Graphics.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_TINY" />
+    </layout>
+</layouts>
